@@ -7,14 +7,14 @@ metadata:
     Componente de prueba para aprender a registrar servicios 
     en Backstage. Creado por Brayan Zamora en Lyncorp.
   annotations:
-    github.com/project-slug: TU_USUARIO_GITHUB/backstage-prueba
+    github.com/project-slug: zamoraB/backstage-prueba
   tags:
     - prueba
     - backstage
     - lyncorp
     - dotnet
   links:
-    - url: https://github.com/TU_USUARIO_GITHUB/backstage-prueba
+    - url: https://github.com/zamoraB/backstage-prueba
       title: Repositorio GitHub
       icon: github
 
