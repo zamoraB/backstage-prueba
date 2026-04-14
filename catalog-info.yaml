@@ -1,0 +1,24 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-prueba
+  title: Backstage Prueba - Brayan
+  description: >
+    Componente de prueba para aprender a registrar servicios 
+    en Backstage. Creado por Brayan Zamora en Lyncorp.
+  annotations:
+    github.com/project-slug: TU_USUARIO_GITHUB/backstage-prueba
+  tags:
+    - prueba
+    - backstage
+    - lyncorp
+    - dotnet
+  links:
+    - url: https://github.com/TU_USUARIO_GITHUB/backstage-prueba
+      title: Repositorio GitHub
+      icon: github
+
+spec:
+  type: service
+  lifecycle: experimental
+  owner: user:default/zamoraB
